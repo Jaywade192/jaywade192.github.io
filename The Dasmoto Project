@@ -1,25 +1,36 @@
 <!DOCTYPE html>
 
 <head>
-  <title>Dasmoto's</title>
+  <title>Dasmoto's</title> <!--short and sweet.-->
 </head>
 
 <body>
-  <h1>Dasmoto's Arts and Crafts</h1>
-    <h2>Brushes</h2>
-      <p>Made of the highest quality oak, Hacksaw brushes are known for their 
-      weight and ability to hold paint in large amounts. 
-      Available in different sizes. 
-      <em>Starting at $3.00 / brush.</em>
-      </p>
-    <h2>Frames</h2>
-      <p>Assorted frames made of different material, including MDF, birchwood, 
-      and PDE. Select frames can be sanded and painted according to your needs. 
-      <em>Starting at $2.00 / frame.</em>
-      </p>
-    <h2>Clean Finnish Paint</h2>
+  <h1>Dasmoto's Arts and Crafts</h1> <!--This is the website's main heading because it's the name of the business-->
+  
+    <h2>Brushes</h2> <!--the second title and first product-->
+    
+      <img src="https://content.codecademy.com/courses/freelance-1/unit-2/hacksaw.jpeg"/>
+        <p>Made of the highest quality oak, Hacksaw brushes are known for their 
+        <br>weight and ability to hold paint in large amounts. 
+        Available in different sizes. 
+          <br><em>Starting at $3.00 / brush.</em>
+        </p>
+        
+    <h2>Frames</h2> <!--Frames up next-->
+    
+        <img src="https://content.codecademy.com/courses/freelance-1/unit-2/frames.jpeg"/>
+        <p>Assorted frames made of different material, including MDF, birchwood, 
+        <br>and PDE. Select frames can be sanded and painted according to your needs. 
+          <br><em>Starting at $2.00 / frame.</em>
+        </p>
+        
+    <h2>Clean Finnish Paint</h2> <!--What's arts and crafts without paint-->
+    
+      <img src="https://content.codecademy.com/courses/freelance-1/unit-2/finnish.jpeg">
       <p>Imported paint from Finland. Over 256 colors available in-store, varying 
-      in quantity (1 oz. to 8 oz.). Clean Finnish paint microbinds to canvas, 
-      increasing the finish and longevity of any artwork. <em>Starting at $5.00 / tube.</em>
+      <br>in quantity (1 oz. to 8 oz.). Clean Finnish paint microbinds to canvas, 
+      <br>increasing the finish and longevity of any artwork. 
+        <br><em>Starting at $5.00 / tube.</em>
       </p>
+      
 </body>
